@@ -1,4 +1,4 @@
-DocEntry,CardCode,DocDate,U_Sucursal,U_Marca,U_Modelo,U_Cilindraje,U_PrecioMoto,U_Prima,U_Plazo,U_Cuota,U_Edad,U_TipoIngreso,U_IngresoMensual,U_AniosTrabajo,U_Dependientes,U_Comprobantes,U_CreditoPrevio,U_Mora
+IdCredito,CodigoCliente,FechaCredito,Sucursal,Marca,Modelo,Cilindraje,PrecioMoto,Prima,Plazo,Cuota,Edad,TipoIngreso,IngresoMensual,AniosTrabajo,Dependientes,Comprobantes,CreditoPrevio,Mora
 10501,C07203,2023-01-02,Apopa,KATANA,NITRO 150,150,1700.0,341.6,12,132.43,150,Remesas,403.0,1.7,3,No,No,0
 10502,C35592,2023-01-03,Santa Ana,DAYUN,200H,200,1900.0,534.16,36,57.98,46,Empleo formal,368.0,1.8,4,Si,No,0
 10503,C03330,2023-01-03,Roosevelt,KATANA,MK1-CVT,125,1400.0,210.0,24,66.54,27,Empleo formal,495.0,10.8,2,No,No,0
